@@ -108,7 +108,7 @@ WHERE
 
 
 def connect(db_filepath):
-    """Set a database connection to the SQLite database.
+    """Set a connection to SQLite database.
 
     Args:
         db_filepath (str): path to database file
